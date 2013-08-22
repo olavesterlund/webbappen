@@ -2,7 +2,7 @@ $(function(){
 
 $('p').on('click', function(){
 
-	$('body').css('background-color', 'red');
+	$('body').css('background-color', 'blue');
 
 });
 
